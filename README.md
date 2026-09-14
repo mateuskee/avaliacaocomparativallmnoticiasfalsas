@@ -191,7 +191,7 @@ Universidade Federal do Pará — UFPA
 
 ## Orientação
 
-**Marcos Cesar da Rocha Seruffo**
+**Marcos Cesar da Rocha Seruffo** e 
 **Adriano Madureira Dos Santos**
 
 ## Uso acadêmico
