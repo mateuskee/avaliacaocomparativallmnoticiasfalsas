@@ -1,0 +1,10 @@
+# Dependências principais do experimento
+# O notebook foi desenvolvido para Google Colab.
+# O módulo google.colab é fornecido pelo próprio ambiente e não é listado aqui.
+
+openai
+pandas
+numpy
+scikit-learn
+matplotlib
+ipython

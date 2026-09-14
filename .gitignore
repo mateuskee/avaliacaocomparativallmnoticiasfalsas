@@ -1,0 +1,27 @@
+# Credenciais e segredos
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.json
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Resultados locais que podem ser grandes
+resultados/
+controle/
+tcc_fake_news_resultados/
+
+# Arquivos temporários
+*.tmp
+*.log
